@@ -1,4 +1,4 @@
-# 🚀 Deva S | LeetCode & Problem Solving Portfolio
+# 🚀 Sharma S | LeetCode & Problem Solving Portfolio
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=LeetCode+Problem+Solver;Aspiring+Data+Analyst+%26+Data+Scientist;Python+%7C+Java+%7C+SQL" />
