@@ -1,4 +1,4 @@
-# 🚀 Sharma S | LeetCode & Problem Solving Portfolio
+# 🚀 Deva S | LeetCode & Problem Solving Portfolio
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=LeetCode+Problem+Solver;Aspiring+Data+Analyst+%26+Data+Scientist;Python+%7C+Java+%7C+SQL" />
@@ -24,7 +24,9 @@ Focused on mastering Data Structures, Algorithms, and Data Analysis using Python
 ## 📈 Progress Dashboard
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'radialGauge',data:{datasets:[{data:[70]}]},options:{trackColor:'#2c2c2c',centerPercentage:80,centerArea:{text:'70%25',fontSize:20,color:'white'}}}" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-165+-00F7FF?style=for-the-badge" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Progress-70%25-blue?style=for-the-badge&logo=leetcode" />
 </p>
 
 ---
