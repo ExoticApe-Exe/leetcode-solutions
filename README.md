@@ -1,30 +1,51 @@
-# 🚀 LeetCode Solutions | Sharma S
+# 🚀 Sharma S | LeetCode & Problem Solving Portfolio
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=LeetCode+Problem+Solver;Future+Data+Scientist;Python+%7C+Java+%7C+SQL" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=LeetCode+Problem+Solver;Aspiring+Data+Analyst+%26+Data+Scientist;Python+%7C+Java+%7C+SQL" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Aspiring Data Analyst & Data Scientist
-Passionate about solving real-world problems using Python, Java, and SQL
+Aspiring Data Analyst & Data Scientist with strong problem-solving skills.
+Focused on mastering Data Structures, Algorithms, and Data Analysis using Python, Java, and SQL.
 
 ---
 
-## 📊 LeetCode Stats
+## 📊 LeetCode Progress
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark\&font=baloo\&ext=heatmap)
+* 🟢 Easy: 100+
+* 🟡 Medium: 50+
+* 🔴 Hard: 15+
+
+---
+
+## 📈 Progress Dashboard
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={type:'radialGauge',data:{datasets:[{data:[70]}]},options:{trackColor:'#2c2c2c',centerPercentage:80,centerArea:{text:'70%25',fontSize:20,color:'white'}}}" />
+</p>
+
+---
+
+## 🔥 Selected Hard Problems Solved
+
+* #4 Median of Two Sorted Arrays
+* #10 Regular Expression Matching
+* #76 Minimum Window Substring
+* #239 Sliding Window Maximum
+* #295 Find Median from Data Stream
 
 ---
 
 ## 🧠 Topics Covered
 
 * Arrays
+* Hashing
+* Sliding Window
 * Dynamic Programming
 * Graphs
-* Sliding Window
 * SQL
 
 ---
@@ -39,7 +60,7 @@ Passionate about solving real-world problems using Python, Java, and SQL
 
 ## 📁 Repository Structure
 
-```bash
+```
 python/
 java/
 sql/
@@ -47,22 +68,23 @@ sql/
 
 ---
 
-## 📅 Progress
+## 📅 Learning Approach
 
 * Solving 2–3 problems daily
-* Focusing on Medium & Hard problems
+* Practicing real interview questions
+* Writing clean, optimized, and well-documented code
 
 ---
 
-## 💼 Why This Repo?
+## 💼 Why This Repository?
 
-✔ Consistent problem solving
-✔ Structured learning
-✔ Interview preparation
-✔ Covers multiple domains
+✔ Demonstrates consistent problem-solving
+✔ Covers multiple domains (DSA + SQL)
+✔ Includes clean and structured code
+✔ Focused on interview preparation
 
 ---
 
 ## 🎯 Goal
 
-Become a top-tier Data Analyst / Data Scientist with strong problem-solving skills 🚀
+To become a top-tier Data Analyst / Data Scientist with strong analytical and coding skills 🚀
